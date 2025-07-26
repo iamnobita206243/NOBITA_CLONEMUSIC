@@ -36,7 +36,7 @@ pycryptodome
 pydub
 pyfiglet
 pykeyboard
-# pyrogram==2.0.106
+pyrogram==2.0.106
 git+https://github.com/KurimuzonAkuma/pyrogram.git@2ae00a2710dd3e347798473f3dd784e9639edb1a
 python-dotenv
 python-telegram-bot==21.1.1
